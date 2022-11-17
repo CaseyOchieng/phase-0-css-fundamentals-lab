@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+nav{
+  text-decoration: none;
+   margin: 14px;
+   padding: 4px;
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.288);
+} 
+a {
+  text-decoration: none;
+  color: aliceblue;
+  text-align: center;
+  margin:4px;
+  padding: 2px;;
+}
+body {
+  justify-items: center;
+
+}
+
+#details {
+  background-color: orangered;
+  display: block;
+  align-items: flex-start;
+  margin: 24px;
+}
